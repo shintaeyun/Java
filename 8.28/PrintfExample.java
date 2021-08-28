@@ -5,8 +5,5 @@ public class PrintfExample {
 		System.out.printf("상품의 가격:%d\n", value);
 		System.out.printf("상품의 가격:%d\n", value);
 		System.out.printf("상품의 가격:%d\n", value);
-		
-
 	}
-
 }
