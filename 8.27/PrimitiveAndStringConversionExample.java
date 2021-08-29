@@ -20,7 +20,7 @@ public class PrimitiveAndStringConversionExample {
 		System.out.println("str2: "+str2);
 		System.out.println("str3: "+str3);
 		
-		//Scanner sc = new Scanner(System.in);
+		//Scanner sc = new Scanner(System.in);  
 		//문자 받을 떄 char a = sc.next().charAt(0);
 	}
 
