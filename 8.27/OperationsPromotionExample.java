@@ -10,7 +10,7 @@ public class OperationsPromotionExample {
 		char charValue1 = 'A';
 		char charValue2 = 1;
 		//char charValue3 = charValue1 + charValue2; <----- 컴파일 에러
-		int intValue2 = charValue1 + charValue2;
+		int intValue2 = charValue1 + charValue2; 
 		System.out.println("유니코드=" + intValue2);
 		System.out.println("출력문자=" + (char)intValue2);
 		
