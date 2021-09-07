@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Calc {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("연산자를 입력하세요 : ");
@@ -27,3 +28,4 @@ public class Calc {
 		else if (opr.equals("%")) {
 			System.out.println(num1 + " % " + num2 + " = " + (num1 % num2));
 		}
+	}
