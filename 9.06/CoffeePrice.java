@@ -19,6 +19,6 @@ public class CoffeePrice {
 			price = 5000;
 		}
 		System.out.printf("주문하신 음료의 가격은 %d입니다.", price);
-		
+		  
 	}
 
