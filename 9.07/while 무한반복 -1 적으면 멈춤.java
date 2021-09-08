@@ -18,4 +18,4 @@ public class Ex_04 {
 		}
 		System.out.println(sum);
 
-	}
+	}  
