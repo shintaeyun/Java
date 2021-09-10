@@ -1,4 +1,4 @@
-public static void main(String[] args) {
+  public static void main(String[] args) {
 		//실수값 저장
 		//float var = 3.14; //자바는 실수 리터럴을 기본적으로 double타입으로 해석하기 때문에 컴파일 에러가 뜬다 float쓸려면 뒷에 f, F 쓴다
 		float var2 = 3.14f;
