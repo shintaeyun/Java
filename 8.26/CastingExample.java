@@ -13,3 +13,4 @@ public class CastingExample {
 		intValue = (int) doubleValue;
 		System.out.println(intValue);
 	}
+}
