@@ -6,3 +6,4 @@ public class VariableInitializationExample {
 		System.out.println(result);  
 	}
 }
+  
