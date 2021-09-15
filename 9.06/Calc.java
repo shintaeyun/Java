@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Calc {  
+public class Calc 
+{  
 
 	public static void main(String[] args) 
 	{
@@ -29,3 +30,4 @@ public class Calc {
 			System.out.println(num1 + " % " + num2 + " = " + (num1 % num2));
 		}
 	}
+}
