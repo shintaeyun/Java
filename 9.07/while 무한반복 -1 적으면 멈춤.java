@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Ex_04 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+        {
 		Scanner sc = new Scanner(System.in);
 		
 		int sum = 0;
@@ -17,5 +18,5 @@ public class Ex_04 {
 			
 		}
 		System.out.println(sum);
-
 	}  
+}
