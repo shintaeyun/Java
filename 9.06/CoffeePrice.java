@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class CoffeePrice {
+public class CoffeePrice 
+{
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -18,7 +19,6 @@ public class CoffeePrice {
 		default:
 			price = 5000;
 		}
-		System.out.printf("주문하신 음료의 가격은 %d입니다.", price);
-		  
+		System.out.printf("주문하신 음료의 가격은 %d입니다.", price);  
 	}
-
+}
