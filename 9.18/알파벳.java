@@ -12,5 +12,5 @@ public class Ex_05 {
 		alpha();
 	}
 
-}
+}  
 
