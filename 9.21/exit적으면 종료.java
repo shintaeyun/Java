@@ -8,7 +8,7 @@ public class Ex_08 {
 		while(true) {
 			String str = sc.next();
 			if (str.equals("exit")) 
-			{
+			{  
 				System.out.println("종료되었습니다."); break;
 			}
 		}
