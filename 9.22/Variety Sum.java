@@ -9,7 +9,7 @@ public class Ex_09 {
 		}
 		return(result);
 	}
-
+  
 	public static int Sum(int n1,int n2) {
 		int result = 0;
 		for (int i = n1; i <= n2; i++)
