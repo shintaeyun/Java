@@ -9,7 +9,7 @@ class Circle2 {
 		this.radius = r;
 	}
 	
-	double findArea() {
+	double findArea() {  
 		return 3.14 * radius * radius;
 	}
 	
