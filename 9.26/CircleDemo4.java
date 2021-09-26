@@ -25,3 +25,16 @@ class Circle {
 }
 
 
+public class CircleDemo4 {
+	public static void main(String[] args) {
+		Circle c1 = new Circle3(10.0, "빨강");
+		
+		Circle c2 = new Circle3(5.0);
+		
+		Circle c3 = new Circle3("노랑");
+		
+		Circle c4 = new Circle3();
+
+	}
+}
+
