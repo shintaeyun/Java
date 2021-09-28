@@ -1,9 +1,9 @@
-class Circle5 {
+class Circle {
 	double radius;
 	static int numOfCircles = 0;
 	int numCircles = 0;
 	
-	public Circle5 (double radius) {
+	public Circle (double radius) {
 		this.radius = radius;
 		numOfCircles++;
 		numCircles++;
@@ -12,11 +12,11 @@ class Circle5 {
 
 public class CircleDemo5 {
 	public static void main(String[] args) {
-		Circle5 myCircle = new Circle5(10.0);
-		Circle5 yourCircle = new Circle5(5.0);
+		Circle myCircle = new Circle(10.0);
+		Circle yourCircle = new Circle(5.0);
 		
 		//print();
-		System.out.println("원의 개수 : " + Circle5.numOfCircles);
+		System.out.println("원의 개수 : " + Circle.numOfCircles);
 		System.out.println("원의 개수 : " + yourCircle.numCircles);
 	}
 	
