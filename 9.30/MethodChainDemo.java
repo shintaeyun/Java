@@ -1,13 +1,13 @@
-class Person1 {
+class Person {
 	String name;
 	int age;
 	
-	public Person1 setName(String name) {
+	public Person setName(String name) {
 		this.name = name;
 		return this;
 	}
 	
-	public Person1 setAge(int age) {
+	public Person setAge(int age) {
 		this.age = age;
 		return this;
 	}
@@ -18,7 +18,7 @@ class Person1 {
 }
 public class MethodChainDemo {
 	public static void main(String[] args) {
-		Person1 person = new Person1();
+		Person person = new Person();
 		person.setName("민국").setAge(21).sayHello();
 	}
 
