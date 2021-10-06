@@ -16,8 +16,6 @@ public class Array2Demo {
 			sum2 += sum1[i];
 		}
 		System.out.printf("3년간 평균 이자율 = %.2f%%\n", sum2 / (3*4));
-		
-		
 	}
 }
 
