@@ -24,7 +24,7 @@ public class CircleArrayDemo {
 			circles[i] = new Circle(i + 1.0);
 			System.out.printf("원의 넓이(반지름 : %.1f) = %.2f\n",
 					circles[i].radius, circles[i].findArea());
-			
+			  
 		}
 
 	}
