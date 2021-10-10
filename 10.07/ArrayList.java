@@ -16,6 +16,6 @@ public class ArrayListDemo {
 			sum += scores.get(i);
 		
 		System.out.println("평균 = " + (double)sum / scores.size());
-	}
+	}  
 
 }
