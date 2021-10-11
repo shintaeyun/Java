@@ -1,7 +1,7 @@
 public class IncrementDemo {
 
 	public static void main(String[] args) {
-		int[] x = { 0 };
+		int[] x = { 0 };  
 		System.out.println("호출 전의 x[0] = " + x[0]);
 		
 		increment(x);
