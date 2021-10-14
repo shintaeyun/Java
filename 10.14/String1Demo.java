@@ -1,5 +1,4 @@
 public class String1Demo {
-
 	public static void main(String[] args) {
 		String s1 = "Hi, Java!";
 		String s2 = "Hi, Java!";
