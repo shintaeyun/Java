@@ -1,5 +1,4 @@
 public class String2Demo {
-
 	public static void main(String[] args) {
 		String s1 = "Hi, Java!";
 		String s2 = new String("Hi, Java!");
@@ -16,8 +15,6 @@ public class String2Demo {
 		System.out.println(s1.compareToIgnoreCase(s4));
 		System.out.println(s3.compareTo(s4));
 		System.out.println("Hi, Java!".compareToIgnoreCase("hi, java!"));
-
 	}
-
 }
 
