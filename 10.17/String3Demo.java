@@ -1,7 +1,6 @@
 package Chap_05;
 
 public class String3Demo {
-
 	public static void main(String[] args) {
 		String s1 = new String("Hi,");
 		String s2 = new String(" java");
@@ -26,9 +25,6 @@ public class String3Demo {
 		System.out.println(s5.repeat(10));
 		
 		System.out.println(s2.trim().indexOf("v"));
-		
-
 	}
-
 }
 
