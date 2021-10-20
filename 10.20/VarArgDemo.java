@@ -1,5 +1,4 @@
 public class VarArgsDemo {
-
 	public static void main(String[] args) {
 		printSum(1, 2, 3, 4, 5);
 		printSum(10, 20, 30);
