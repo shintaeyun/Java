@@ -1,5 +1,4 @@
 public class AnimalTest {
-
 	public static void main(String[] args) {
 		Eagle e1 = new Eagle();
 		e1.mouth = 1;
@@ -22,5 +21,4 @@ public class AnimalTest {
 		g1.sleep();
 		g1.swim();					
 	}
-
 }
