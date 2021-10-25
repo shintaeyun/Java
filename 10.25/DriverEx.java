@@ -28,7 +28,6 @@ class Driver {
 
 
 public class DriverEx {
-
 	public static void main(String[] args) {
 		Driver d = new Driver();
 		Taxi t = new Taxi();
