@@ -5,7 +5,6 @@ public class InheritanceDemo {
 		Ball c2 = new Ball("빨간색 ");
 		
 		System.out.println("원: ");
-//		c1.secret();
 		c1.findRadius();
 		c1.findArea();
 		
